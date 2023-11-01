@@ -1,0 +1,5 @@
+SELECT NOW();
+
+SELECT CURRENT_DATE();
+
+SELECT DATE_FORMAT(NOW(), "%Y-%m-%d %H:%i:%s");
