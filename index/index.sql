@@ -1,0 +1,2 @@
+CREATE INDeX < index 名 > ON < テーブル名 >(カラム名1...) DROP INDEX < index 名 > SHOW INDEX
+FROM < テーブル名 > CREATE UNIQUE INDEX < index 名 > ON < テーブル名 >(カラム名1...) CREATE INDEX < index 名 > ON < テーブル名 >((< 関数 >(カラム1...)))
